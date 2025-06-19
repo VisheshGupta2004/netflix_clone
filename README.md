@@ -46,6 +46,10 @@ netflix-clone/
 
 │       └── logo.svg
 
+│   └── videos/
+
+│       └── video1.m4v
+
 │
 
 ├── favicon.ico
