@@ -4,14 +4,6 @@ This is a **Netflix landing page clone** built using **HTML** and **CSS**. The p
 
 ---
 
-## 🌐 Live Demo
-
-👉 [View Live Project](https://your-username.github.io/netflix-clone)
-
-> Replace the link with your actual GitHub Pages URL if deployed.
-
----
-
 ## 🛠️ Tech Stack
 
 - **HTML5** – Markup for structuring the webpage
